@@ -24,7 +24,7 @@ This mini project involved designing and 3D printing a custom CPU fan and protec
 ![Figure 2](images/figure2.jpg)  
 *3d View of Fan*
 
-![Figure 2](images/figure2.jpg)  
+![Figure 3](images/figure3.jpg)  
 *3d View of Cover*
 ---
 
