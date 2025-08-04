@@ -38,9 +38,9 @@ PDF views from different angles included in the repo:
 
 ## 🔗 Fusion 360 Links *(Login Required)*
 
-- [Fan Assembly](https://a360.co/4moRbgJ)
-- [Fan Only](https://a360.co/40MmwBU)
-- [Fan Cover](https://a360.co/4mqrcW7)
+- ![Fan Assembly](https://a360.co/4moRbgJ)
+- ![Fan Only](https://a360.co/40MmwBU)
+- ![Fan Cover](https://a360.co/4mqrcW7)
 
 ---
 
