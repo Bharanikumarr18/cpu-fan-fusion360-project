@@ -19,12 +19,13 @@ This mini project involved designing and 3D printing a custom CPU fan and protec
 ## 📸 Design Showcase
 
 ![Figure 1](images/figure1.jpg)  
-*Top View of CPU Fan Assembly*
+*3d View Assembly*
 
 ![Figure 2](images/figure2.jpg)  
-*Side View of Cover and Fan*
+*3d View of Fan*
 
-
+![Figure 2](images/figure2.jpg)  
+*3d View of Cover*
 ---
 
 ## 🖼️ 2D Drafts
