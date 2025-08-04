@@ -31,16 +31,16 @@ This mini project involved designing and 3D printing a custom CPU fan and protec
 ## 🖼️ 2D Drafts
 
 PDF views from different angles included in the repo:
-- [Fan Draft View](images/figure4.png)
-- [Cover Draft View](images/figure5.png)
+- ![Fan Draft View](images/figure4.png)
+- ![Cover Draft View](images/figure5.png)
 
 ---
 
 ## 🔗 Fusion 360 Links *(Login Required)*
 
-- ![Fan Assembly](https://a360.co/4moRbgJ)
-- ![Fan Only](https://a360.co/40MmwBU)
-- ![Fan Cover](https://a360.co/4mqrcW7)
+- [Fan Assembly](https://a360.co/4moRbgJ)
+- [Fan Only](https://a360.co/40MmwBU)
+- [Fan Cover](https://a360.co/4mqrcW7)
 
 ---
 
