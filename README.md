@@ -31,8 +31,8 @@ This mini project involved designing and 3D printing a custom CPU fan and protec
 ## 🖼️ 2D Drafts
 
 PDF views from different angles included in the repo:
-- [Fan Draft View (PDF)](./drafts/fan_draft.pdf)
-- [Cover Draft View (PDF)](./drafts/cover_draft.pdf)
+- [Fan Draft View](images/figure4.png)
+- [Cover Draft View](images/figure5.png)
 
 ---
 
